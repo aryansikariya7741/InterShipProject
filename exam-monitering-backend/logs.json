@@ -1,0 +1,439 @@
+[
+  {
+    "type": "sound_detected",
+    "volume": "62.48",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:27.291Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "61.64",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:27.308Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "60.58",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:27.324Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "62.91",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:27.341Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "62.21",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:27.358Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "64.06",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:27.375Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "64.79",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:27.391Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "64.98",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:27.408Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "65.49",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:27.425Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "68.86",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:27.441Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "67.27",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:27.458Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "64.54",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:27.475Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "60.82",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:27.491Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "73.93",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.109Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "82.75",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.126Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "89.25",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.141Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "88.72",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.158Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "86.63",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.174Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "86.98",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.191Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "84.79",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.208Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "82.66",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.225Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "82.00",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.241Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "87.71",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.258Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "92.84",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.275Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "97.34",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.291Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "100.30",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.308Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "102.95",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.326Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "102.66",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.341Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "103.13",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.358Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "102.60",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.375Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "98.47",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.391Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "94.45",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.408Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "90.32",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.425Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "86.02",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.441Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "84.08",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.458Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "77.11",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.475Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "73.33",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.491Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "70.19",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.508Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "67.77",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.525Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "65.06",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.541Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "62.47",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.558Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "sound_detected",
+    "volume": "60.02",
+    "message": "🚨 Loud sound or talking detected!",
+    "timestamp": "2025-07-03T09:01:30.574Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "reference_captured",
+    "timestamp": "2025-07-03T09:01:39.486Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "reference_captured",
+    "timestamp": "2025-07-03T09:01:42.572Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "reference_captured",
+    "timestamp": "2025-07-03T09:01:46.610Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "match",
+    "timestamp": "2025-07-03T09:01:47.909Z",
+    "distance": 375.46532196525135,
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "reference_captured",
+    "timestamp": "2025-07-03T09:01:50.570Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "match",
+    "timestamp": "2025-07-03T09:01:51.330Z",
+    "distance": 334.5613736238067,
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "match",
+    "timestamp": "2025-07-03T09:01:51.860Z",
+    "distance": 312.85753899265137,
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  },
+  {
+    "type": "reference_captured",
+    "timestamp": "2025-07-03T09:01:54.609Z",
+    "userId": "cec",
+    "examId": "ec",
+    "name": "ec"
+  }
+]
